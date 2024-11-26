@@ -1,0 +1,1 @@
+(?i)\b(dissoku\.net)\b
